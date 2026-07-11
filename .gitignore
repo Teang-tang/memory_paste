@@ -1,0 +1,35 @@
+# ── Python 缓存 ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# ── 虚拟环境 ──
+venv/
+.venv/
+env/
+
+# ── 运行时生成的数据 ──
+clipboard.db
+clipboard.db-shm
+clipboard.db-wal
+storage/
+
+# ── PyInstaller 打包产物 ──
+build/
+dist/
+*.spec
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── 系统文件 ──
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ── 日志 ──
+*.log
