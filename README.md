@@ -133,8 +133,3 @@ memory_paste/
 - 杀毒软件可能误报 PyInstaller 打包的 exe，添加到信任即可
 - 本仓库只包含**源代码**，exe 请在 [Releases](https://github.com/Teang-tang/memory_paste/releases) 下载
 
----
-
-## 📄 License
-
-MIT © Teang-tang
